@@ -1,18 +1,18 @@
 {
   "person": {
     "name": "John",
-    "age": 30,
-    "city": "New York"
+    "age": 40,
+    "city": "London"
   },
   "pets": [
     {
-      "name": "Buddy",
+      "name": "Rex",
       "species": "Dog",
-      "age": 5
+      "age": 3
     },
     {
-      "name": "Whiskers",
-      "species": "Cat",
+      "name": "Gromp",
+      "species": "Frog",
       "age": 3
     }
   ]
